@@ -9,15 +9,15 @@ Provides an option to continue the brute force attack even after finding a valid
 Retrieves the SSH server banner for target identification.
 Written using the Renci.SshNet library for SSH communication.
 
-##To compile
+## To compile:
 
 ```sh
 C:\Users\MyPc\SharpBruteForceSSH> csc /reference:"C:\Users\MyPc\SharpBruteForceSSH\Renci.SshNet.dll" SharpBruteForceSSH.cs
 ```
 make sure you already have you C# compiler configured in your PATH
 
-##After Compilation
-Have Your Dictioray for Username.txt, Password.txt ready in thesame directory as SharpBruteForceSSH.exe
+## After Compilation:
+Have Your Dictionary for Username.txt, Password.txt ready in thesame directory as SharpBruteForceSSH.exe
 
 ## Compiled:
 
